@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
 <h3 align="center">Skilled backend developer currently residing in Thailand</h3>
 
-- Leetcode Knight
+- Focusing on distributed systems :spider_web:
+
+- Leetcode Knight :chess_pawn:
 
 - Gamer :video_game: Home cook :hamburger:
-
-- 📝 Writing articles once in a while on [https://medium.com/@eugenzuy](https://medium.com/@eugenzuy)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
