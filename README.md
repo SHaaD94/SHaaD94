@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to index hundreds of millions of series in a time-series database](https://medium.com/agoda-engineering/how-to-index-hundreds-of-millions-of-series-in-a-time-series-database-38e61c90c826?source=rss-3a7109501dd6------2)
+- [How to efficiently store and query hundreds of String Int dictionaries on one machine](https://medium.com/agoda-engineering/how-to-efficiently-store-and-query-hundreds-of-string-int-dictionaries-on-one-machine-919ab757d362?source=rss-3a7109501dd6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
