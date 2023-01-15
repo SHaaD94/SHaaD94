@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
-<h3 align="center">Skilled backend developer currently residing in Thailand</h3>
+<h3 align="center">Skilled backend developer based in Thailand</h3>
 
 - Focusing on distributed systems :spider_web:
 
