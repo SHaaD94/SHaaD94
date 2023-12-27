@@ -7,6 +7,10 @@
 
 - Gamer :video_game: Home cook :hamburger:
 
+### Talks
+- [Into the Kestrel’s Nest: A Deep Dive into High-Volume Log Management](https://www.youtube.com/watch?v=t8ZBPe4QJSI)
+- [Java to Rust transition and Survivor Bias](https://www.facebook.com/watch/live/?ref=watch_permalink&v=527957822526790&t=7130)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Grafana &amp; GitLab — happier developers](https://medium.com/agoda-engineering/grafana-gitlab-happier-developers-c19d686a31a0?source=rss-3a7109501dd6------2)
