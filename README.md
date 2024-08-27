@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Counting words - distributed Scatter/Gather case study](https://medium.com/@eugenzuy/counting-words-distributed-scatter-gather-case-study-8512ab36429d?source=rss-3a7109501dd6------2)
 - [Grafana &amp; GitLab — happier developers](https://medium.com/agoda-engineering/grafana-gitlab-happier-developers-c19d686a31a0?source=rss-3a7109501dd6------2)
 - [How to index hundreds of millions of series in a time-series database](https://medium.com/agoda-engineering/how-to-index-hundreds-of-millions-of-series-in-a-time-series-database-38e61c90c826?source=rss-3a7109501dd6------2)
 - [How to efficiently store and query hundreds of String Int dictionaries on one machine](https://medium.com/agoda-engineering/how-to-efficiently-store-and-query-hundreds-of-string-int-dictionaries-on-one-machine-919ab757d362?source=rss-3a7109501dd6------2)
